@@ -25,12 +25,8 @@ Hi there! I'm Agustín, a passionate full-stack developer who thrives on learnin
 
 ---
 
-# 📊 GitHub Stats<br/>
-![Agustín's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pertixx&show_icons=true&theme=radical)
-
----
-
 # 📬 Get in Touch
+- **Portfolio**: https://www.agustinperticaro.com
 - **Email**: agustinperti06@gmail.com
 - **LinkedIn**: [linkedin.com/in/agustinperticaro](https://www.linkedin.com/in/agustin-perticaro-777172189/)
 
